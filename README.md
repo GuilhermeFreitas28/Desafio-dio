@@ -1,2 +1,3 @@
 # Desafio-dio
-Desafio DIO bootcamp (GitHub)
+Desafio DIO bootcamp (Git & GitHub)
+
